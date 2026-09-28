@@ -1,0 +1,16 @@
+# Gowin EDA generated files
+impl/
+build/
+*.fs
+*.bin
+*.tmp
+*.bak
+*.log
+*.rpt
+*.html
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
